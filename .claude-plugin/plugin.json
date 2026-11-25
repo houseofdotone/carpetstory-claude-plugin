@@ -1,0 +1,24 @@
+{
+  "name": "carpetstory",
+  "displayName": "Carpetstory",
+  "version": "1.0.0",
+  "description": "Specify a rug for a real room: size and placement, construction, materials, care and lead time, written up as a spec sheet. Connects to the Carpetstory catalogue of hand-knotted rugs from Jaipur when you want to look at real pieces.",
+  "author": {
+    "name": "Carpetstory",
+    "email": "carpetstory.one@gmail.com",
+    "url": "https://carpetstory.one"
+  },
+  "homepage": "https://carpetstory.one",
+  "repository": "https://github.com/houseofdotone/carpetstory-claude-plugin",
+  "license": "MIT",
+  "keywords": [
+    "rugs",
+    "interior design",
+    "carpets",
+    "hand-knotted",
+    "specification",
+    "home"
+  ],
+  "mcpServers": "./.mcp.json",
+  "privacyPolicyUrl": "https://carpetstory.one/en/privacy"
+}

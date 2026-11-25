@@ -1,0 +1,17 @@
+{
+  "name": "carpetstory",
+  "owner": {
+    "name": "Carpetstory",
+    "email": "carpetstory.one@gmail.com"
+  },
+  "metadata": {
+    "description": "Rug specification and the Carpetstory catalogue for Claude."
+  },
+  "plugins": [
+    {
+      "name": "carpetstory",
+      "source": "./",
+      "description": "Specify a rug for a real room: size and placement, construction, materials, care and lead time, written up as a spec sheet. Connects to the Carpetstory catalogue of hand-knotted rugs from Jaipur when you want to look at real pieces."
+    }
+  ]
+}
